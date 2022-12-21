@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hello everyone, my name is Claudio Daniel Pacheco-Castro👋</h1>
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/claudiodanielpc.svg?style=social&label=Follow%20%40claudiodanielpc)](https://twitter.com/claudiodanielpc)
+<p align="left"> <a href="https://twitter.com/claudiodanielpc" target="blank"><img src="https://img.shields.io/twitter/follow/claudiodanielpc?logo=twitter&style=for-the-badge" alt="claudiodanielpc" /></a> </p>
+
 
 
 <!--
