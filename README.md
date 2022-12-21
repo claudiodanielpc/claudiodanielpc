@@ -2,6 +2,12 @@
 
 <p align="left"> <a href="https://twitter.com/claudiodanielpc" target="blank"><img src="https://img.shields.io/twitter/follow/claudiodanielpc?logo=twitter&style=for-the-badge" alt="claudiodanielpc" /></a> </p>
 
+## Tutorials
+
+I've been working on some tutorials in spanish to help social scientists to solve some issues with data:
+
+Medium: <a href="https://medium.com/@claudiodanielpc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@claudiodanielpc" height="30" width="40" /></a>
+
 
 
 <!--
