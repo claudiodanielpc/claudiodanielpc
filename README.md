@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiodanielpc)](https://github.com/claudiodanielpc/github-readme-stats)
+
+<h3 align="left">¿Te gustaría apoyarme?</h3>
+<p><a href="https://www.buymeacoffee.com/claudiodanielpc"> <img align="centered" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="claudiodanielpc" /></a></p><br><br>
